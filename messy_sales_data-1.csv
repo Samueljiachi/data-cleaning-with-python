@@ -1,0 +1,41 @@
+OrderID,OrderDate,Product,Quantity,UnitPrice,Region,Channel,Customer
+1000,2026-01-01,LAPTOP,2.0,"$500,00",West,,david
+1001,2026-01-02,Laptop,,"$500,00",,STORE,BOB
+1002,,monitor,5.0,$1000,east,In Store,Charlie
+1003,2026-01-04,Laptop,3.0,2500,south,,Alice 
+1004,,laptop,,"$1500,00",West,In Store,Charlie
+1005,2026-01-06,mouse,3.0,$2000,North,online,BOB
+1006,Jan 7 2026,KEYBOARD,,$1000,south,STORE,Charlie
+1007,01/8/2026,keyboard,1.0,"$1000,00",south,online,Alice 
+1008,01/9/2026,MONITOR,-1.0,"2000,00",south,In Store,Charlie
+1009,01/10/2026,PHONE,-1.0,2500,North,In Store,BOB
+1010,,laptop,2.0,$1000,West,STORE,david
+1011,,Monitor,1.0,$500,North,online,Alice 
+1012,Jan 13 2026,Headphones,-1.0,"$1500,00",,Online,Charlie
+1013,01/2/2026,phone,5.0,$2500,south,Online,Alice 
+1014,Jan 15 2026,MOUSE,2.0,$2500,south,Online,
+1015,01/4/2026,phone,2.0,$1500,east,,BOB
+1016,Jan 17 2026,HEADPHONES,4.0,2500,West,online,Alice 
+1017,01/6/2026,Monitor,-1.0,"500,00",North,Online,
+1018,01/7/2026,Tablet,2.0,$2500,south,STORE,BOB
+1019,2026-01-02,Laptop,4.0,$2000,West,Online,david
+1020,Jan 21 2026,MOUSE,2.0,2500,North,STORE,BOB
+1021,2026-01-04,headphones,1.0,$500,West,Online,BOB
+1022,01/11/2026,Headphones,4.0,500,south,online,david
+1023,Jan 24 2026,Headphones,5.0,$2500,east,online,BOB
+1024,2026-01-07,MONITOR,3.0,500,,In Store,Alice 
+1025,2026-01-08,mouse,-1.0,"1000,00",,In Store,
+1026,2026-01-09,Monitor,,2500,North,In Store,Charlie
+1027,,phone,3.0,500,,Online,Alice 
+1028,01/5/2026,monitor,1.0,1000,,online,
+1029,2026-01-03,KEYBOARD,-1.0,$500,West,Online,
+1030,01/7/2026,Tablet,3.0,"$1000,00",,STORE,Charlie
+1031,2026-01-05,laptop,1.0,500,North,In Store,david
+1032,,Monitor,-1.0,"$1000,00",,,BOB
+1033,,phone,5.0,$500,east,Online,Charlie
+1034,,monitor,2.0,"$1000,00",south,Online,BOB
+1035,Jan 8 2026,mouse,5.0,"1000,00",West,STORE,Alice 
+1036,,phone,3.0,"$1500,00",east,Online,BOB
+1037,,Tablet,5.0,1500,,online,Alice 
+1038,2026-01-03,tablet,3.0,500,North,STORE,
+1039,2026-01-04,HEADPHONES,1.0,"2000,00",,In Store,Charlie
